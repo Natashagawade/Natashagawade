@@ -40,7 +40,7 @@
 
 - 📖 Building strong DSA fundamentals: **Greedy, DP, Graphs, Recursion**
 - 🛠 Projects in **ML**, **Web Dev**, and **Enterprise Tech**
-- 📈 Preparing for high-value placements & internships (30+ LPA aim 🚀)
+- 📈 Preparing for high-value placements & internships
 
 ---
 
