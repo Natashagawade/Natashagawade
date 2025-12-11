@@ -1,51 +1,37 @@
 <h1 align="center">Hey there 👋, I'm Natasha Gawade</h1>
 <h3 align="center">🚀 3rd-Year B.Tech CSE | SAP ABAP Developer | Full Stack & AI Enthusiast</h3>
 
-<!-- 🔥 GIF BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="max-height:200px; object-fit:cover;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+%7C+SAP+ABAP+Developer;Enterprise+Apps+%26+Automation;Full+Stack+%7C+AI+%7C+Data+Science;DSA+and+Backend+Mastery+in+Progress" />
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+%7C+SAP+ABAP+Developer;Transforming+Data+Into+Insights+💡;Crafting+AI+Solutions+and+Enterprise+Tools+🚀;DSA+and+Full+Stack+in+Progress+💻" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natashagawade&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=natashagawade&label=Profile%20Views&color=0CA6FF&style=flat" />
 </p>
 
 ---
 
-💡 Passionate about building **enterprise-grade SAP applications**, **AI-powered systems**, and rich full-stack user experiences.  
-🔍 Currently exploring **Java Backend + ML Models + DSA**  
-
-📍 India | 🌐 Open to Internships / Freelance / Collabs
-
----
-
-## 🔥 About Me
+## 👩‍💻 About Me
 
 - 🎓 **B.Tech CSE (3rd Year)** | Parul University  
-- 💼 **SAP ABAP Developer** — Industry Embedded Program  
-- 💬 Languages: **Python, Java, C, JavaScript**  
-- 🧠 Interests: AI, Data Science, Automation, Backend  
-- 📚 Currently learning: **DSA, ML, Java Backend**  
-- 🏆 Hackathon Participant & AI Enthusiast  
+- 💼 Specialization: **SAP ABAP Developer — Industry Embedded Program**  
+- 💡 Interests: AI, Data Science, Enterprise Automation, Backend  
+- 💬 Skilled in: **Python, Java, C, JavaScript**  
+- 📚 Currently learning: **DSA, Java Backend, ML Concepts**  
+- 🏆 Hackathon Participant | Builder | Tech Enthusiast  
 
 ---
 
-## 🛡️ Certifications (Badges)
+## 🛡️ Certifications
 
-> Replace these with your actual certifications later if needed.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Certified-SAP_ABAP-0033DD?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-Machine_Learning-CB3837?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-Data_Science-0A66C2?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-Java_Developer-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP_ABAP_Certified-0033DD?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Coursera-orange?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Developer-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
+> Replace these with your actual certifications anytime — structure remains professional.
 
 ---
 
@@ -69,57 +55,40 @@
 
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
-| 💼 **Resume Builder App** | SAP UI5, Fiori, jsPDF | Auto PDF generation from user input |
-| ✅ **Advanced Fiori To-Do App** | SAPUI5, LocalStorage | Full CRUD + Export to CSV/PDF |
-| 🌐 **Animated Portfolio** | HTML, CSS, JS | Clean UI, animations, contact form |
+| **Resume Builder App** | SAP UI5, Fiori, jsPDF | Auto PDF generation from form input |
+| **Advanced Fiori To-Do App** | SAPUI5, LocalStorage | Add/Edit/Delete + Export CSV/PDF |
+| **Portfolio Website** | HTML, CSS, JavaScript | Clean UI, animations, contact form |
 
-👉 _See more in pinned repositories._
-
----
-
-## 📈 GitHub Stats — Custom Theme
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natashagawade&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natashagawade&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashagawade&layout=compact&theme=tokyonight" width="48%" />
-</p>
+> More projects available in pinned repositories.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=natashagawade&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natashagawade&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=natashagawade&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashagawade&layout=compact&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📊 Visitor Graph
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=natashagawade.natashagawade" />
+  <img src="https://github-profile-trophy.vercel.app/?username=natashagawade&theme=flat&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 📌 Auto Pinned Repositories
+## 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Resume-Builder-App&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Fiori-ToDo-App&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=NatashaGawade-portfolio&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/natashagawade/natashagawade/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Resume-Builder-App&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Fiori-ToDo-App&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -128,8 +97,8 @@
 
 <p align="left">
   <a href="mailto:natashagawade2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/natasha-gawade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://natashagawade.github.io/NatashaGawade-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/natasha-gawade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://natashagawade.github.io/NatashaGawade-portfolio/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
