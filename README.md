@@ -1,35 +1,55 @@
 <h1 align="center">Hey there 👋, I'm Natasha Gawade</h1>
 <h3 align="center">🚀 3rd-Year B.Tech CSE | SAP ABAP Developer | Full Stack & AI Enthusiast</h3>
 
+<!-- 🔥 GIF BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+%7C+SAP+ABAP+Developer;Transforming+Data+Into+Insights+💡;Crafting+AI+Solutions+and+Enterprise+Tools+🚀;DSA+and+Full+Stack+in+Progress+💻" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="max-height:200px; object-fit:cover;" />
 </p>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natashagawade&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+%7C+SAP+ABAP+Developer;Transforming+Data+Into+Insights+💡;Crafting+AI+Solutions+and+Enterprise+Tools+🚀;DSA+and+Full+Stack+in+Progress+💻" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=natashagawade&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-💡 Passionate about building **enterprise-grade applications**, **AI-driven systems**, and intuitive user experiences using **SAP, full-stack**, and **data science** technologies.
+💡 Passionate about building **enterprise-grade SAP applications**, **AI-powered systems**, and rich full-stack user experiences.  
+🔍 Currently exploring **Java Backend + ML Models + DSA**  
 
-📍 Based in India | 🌐 Actively open to internships, freelance & team-ups
-
----
-
-### 🚀 About Me
-
-🎓 **3rd-year B.Tech CSE student** at **Parul University**  
-🧠 **Specialization**: SAP ABAP Developer | Industry-Embedded Program  
-💡 **Interests**: AI, Data Science, Enterprise Automation  
-💬 **Languages**: Python, Java, C  
-🔍 **Currently mastering**: DSA, Java Backend, and ML Concepts  
-🏆 Hackathon participant | Dev & AI Enthusiast  
-📚 Lifelong learner with a love for problem solving
+📍 India | 🌐 Open to Internships / Freelance / Collabs
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🔥 About Me
+
+- 🎓 **B.Tech CSE (3rd Year)** | Parul University  
+- 💼 **SAP ABAP Developer** — Industry Embedded Program  
+- 💬 Languages: **Python, Java, C, JavaScript**  
+- 🧠 Interests: AI, Data Science, Automation, Backend  
+- 📚 Currently learning: **DSA, ML, Java Backend**  
+- 🏆 Hackathon Participant & AI Enthusiast  
+
+---
+
+## 🛡️ Certifications (Badges)
+
+> Replace these with your actual certifications later if needed.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified-SAP_ABAP-0033DD?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Machine_Learning-CB3837?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Data_Science-0A66C2?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Java_Developer-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tech Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap&logoColor=white" />
@@ -45,31 +65,66 @@
 
 ---
 
-### 🚀 Projects That Define Me
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
-| 💼 **Resume Builder App** | SAP Fiori, UI5, jsPDF | Auto-generate resume PDFs via form input |
-| ✅ **Advanced Fiori To-Do App** | SAPUI5, LocalStorage | Add/Edit/Delete tasks, export to PDF/CSV |
-| 🌐 **Animated Portfolio Website** | HTML, CSS, JavaScript | Black/white themed with colorful accents & contact form |
+| 💼 **Resume Builder App** | SAP UI5, Fiori, jsPDF | Auto PDF generation from user input |
+| ✅ **Advanced Fiori To-Do App** | SAPUI5, LocalStorage | Full CRUD + Export to CSV/PDF |
+| 🌐 **Animated Portfolio** | HTML, CSS, JS | Clean UI, animations, contact form |
 
-👉 _Explore more in my pinned repositories!_
+👉 _See more in pinned repositories._
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats — Custom Theme
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=natashagawade&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=natashagawade&theme=tokyonight" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashagawade&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=natashagawade&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Visitor Graph
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=natashagawade.natashagawade" />
+</p>
+
+---
+
+## 📌 Auto Pinned Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Resume-Builder-App&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=Fiori-ToDo-App&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natashagawade&repo=NatashaGawade-portfolio&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/natashagawade/natashagawade/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:natashagawade2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -79,5 +134,4 @@
 
 ---
 
-> “Code not just for logic, but for impact.”  
-> — _Natasha Gawade_
+<h3 align="center">✨ “Code not just for logic, but for impact.” — Natasha Gawade ✨</h3>
